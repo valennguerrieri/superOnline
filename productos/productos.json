@@ -7,7 +7,7 @@
       "marca": "la virginia",
       "peso": 170,
       "precio": 5200,
-      "stock": 18
+      "stock": 16
     },
     {
       "id": "asad",
@@ -16,7 +16,7 @@
       "marca": "panacity",
       "peso": 410,
       "precio": 1800,
-      "stock": 9,
+      "stock": 8,
       "descripcion": "salvado"
     },
     {
@@ -26,7 +26,7 @@
       "marca": "panacity",
       "peso": 410,
       "precio": 1700,
-      "stock": 13,
+      "stock": 8,
       "descripcion": "avena y cereales"
     },
     {
@@ -65,7 +65,7 @@
       "marca": "Cif",
       "peso": 1,
       "precio": 2000,
-      "stock": 10,
+      "stock": 9,
       "imagen": "",
       "descripcion": null
     },
@@ -155,6 +155,16 @@
       "stock": 20,
       "imagen": "",
       "descripcion": null
+    },
+    {
+      "id": "3a32",
+      "categoria": "verduleria",
+      "producto": "Banana",
+      "marca": "-",
+      "peso": 1000,
+      "precio": 1234,
+      "stock": 8,
+      "descripcion": "ecuador"
     }
   ]
 }
